@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+.venv311/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Captured images (temp)
+images/opencv_frame.png
+
+# IDE
+.DS_Store
+*.swp
